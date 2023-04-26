@@ -1,0 +1,9 @@
+<!--index.wxml-->
+
+  <view class="userinfo">
+    <image src="NX1.jpg" mode="aspectFill"></image>
+  </view>  
+  <view class="usermotto">
+    <button type="primary" open-type="contact" bindcontact="handleContact" session-from="sessionFrom">联系客服</button>
+  </view>
+

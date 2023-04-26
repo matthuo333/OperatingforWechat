@@ -1,0 +1,5 @@
+
+<text>正在下载</text>
+
+
+<progress percent="{{percent1}}" ></progress>
